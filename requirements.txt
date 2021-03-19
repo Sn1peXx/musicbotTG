@@ -22,7 +22,7 @@ numpy==1.18.3
 openpyxl==3.0.3
 pathtools==0.1.2
 pefile==2019.4.18
-Pillow==7.1.2
+Pillow==8.1.1
 PyAutoGUI==0.9.50
 pybase64==1.0.1
 pycparser==2.20
